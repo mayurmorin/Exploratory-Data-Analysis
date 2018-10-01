@@ -18,6 +18,8 @@ Project Task 2.7 & 2.8.PNG	file contains screen shot of Task 2.7 and Task 2.8.
 
 Project Task 2.9, 2.10 & 2.11.PNG	file contains screen shot of Task 2.9, 2.10 & 2.11.
 
+Project Task LoadDatasetfromCSV.PNG file contains screens hot of Load Dataset from CSV for Users, Sessions, Products, and Transactions.
+
 Project Task 2.12 & 2.13.PNG	file contains screen shot of Task 2.12 and Task 2.13.
 
 Project Task 2.14 & 2.15.PNG	file contains screen shot of Task 2.14 and Task 2.15.
